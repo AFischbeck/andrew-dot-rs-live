@@ -6,6 +6,20 @@
     <description>Andrew — Rust Developer</description>
     <language>en</language>
     <atom:link href="https://andrew.rs/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 07 Aug 2026 09:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:08:26 +0000</lastBuildDate>
+    <item>
+      <title>Marching Cubes Bevy Mesh Generation</title>
+      <link>https://andrew.rs/post/marching-cubes-bevy-mesh-generation</link>
+      <guid>https://andrew.rs/post/marching-cubes-bevy-mesh-generation</guid>
+      <pubDate>Fri, 07 Aug 2026 11:43:43 +0000</pubDate>
+      <description>See on Github Watch the series on Youtube What it is A Marching Cubes algorithm implementation in Rust. At a high level, what this algorithm provides is two things: - Functionality for taking a Scalar Field and providing a collection of triangles that correspond to a polygonal surface - Functionality for taking triangle vertices and providing normal vectors in order to facilitate lighting calculations A scalar field is defined by many individual floating-point numbers, each of which corresponds </description>
+    </item>
+    <item>
+      <title>Supabase Realtime Rust (Websockets)</title>
+      <link>https://andrew.rs/post/supabase-realtime-rust</link>
+      <guid>https://andrew.rs/post/supabase-realtime-rust</guid>
+      <pubDate>Fri, 07 Aug 2026 10:31:43 +0000</pubDate>
+      <description>See on Github What it is A component for the Supabase community-built Rust client that enables the realtime (websocket) features This crate allows sending websocket messages in real-time between different clients. This can enable real-time updates of data, chatrooms, even establishing WebRTC connections between users. A message can be broadcast using an "event", such as in this example: The project relies on tokio for the async runtime, and tokio-tungstenite for asyc websockets communication. I </description>
+    </item>
   </channel>
 </rss>
