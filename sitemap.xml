@@ -26,6 +26,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://andrew.rs/post/andrew-rs</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andrew.rs/post/lzma-rle-compression-library</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://andrew.rs/post/marching-cubes-bevy-mesh-generation</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -54,6 +66,11 @@
   </url>
   <url>
     <loc>https://andrew.rs/category/supabase</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://andrew.rs/category/web</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

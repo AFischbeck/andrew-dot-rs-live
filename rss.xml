@@ -6,7 +6,21 @@
     <description>Andrew — Rust Developer</description>
     <language>en</language>
     <atom:link href="https://andrew.rs/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 07 Aug 2026 17:22:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 14:31:41 +0000</lastBuildDate>
+    <item>
+      <title>Andrew.rs</title>
+      <link>https://andrew.rs/post/andrew-rs</link>
+      <guid>https://andrew.rs/post/andrew-rs</guid>
+      <pubDate>Sat, 08 Aug 2026 17:31:41 +0000</pubDate>
+      <description>What it is This portfolio/blog site with a Supabase instance as a backend, and a Dioxus static frontend. The frontend is compiled to webassembly, and hosted on Github pages for free. Why this stack Starting with Supabase: I prefer using a backend service like Supabase, because it saves a lot of time and effort on boilerplate things, such as authentication, interfacing with the database, and so on. I chose Supabase over Firebase due to the fact that it's open-source, free, and I already have expe</description>
+    </item>
+    <item>
+      <title>LZMA + RLE Compression Library </title>
+      <link>https://andrew.rs/post/lzma-rle-compression-library</link>
+      <guid>https://andrew.rs/post/lzma-rle-compression-library</guid>
+      <pubDate>Sat, 08 Aug 2026 10:03:04 +0000</pubDate>
+      <description>View it on Github What it is A library ported from C to Rust that can encode or decode data using either LZMA compression, or a specific combination of LZMA and RLE. This algorithm is specifically tailored around a specific data format used to compress data for Playstation 2 disk images. More details/Why The existing tools available publicly for working with PS2 game data are all in a variety of different languages. This made it difficult to create unified tools that can perform different operat</description>
+    </item>
     <item>
       <title>Marching Cubes Bevy Mesh Generation</title>
       <link>https://andrew.rs/post/marching-cubes-bevy-mesh-generation</link>
