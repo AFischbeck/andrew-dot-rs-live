@@ -6,7 +6,14 @@
     <description>Andrew — Rust Developer</description>
     <language>en</language>
     <atom:link href="https://andrew.rs/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 14:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:43:58 +0000</lastBuildDate>
+    <item>
+      <title>Demystifying the Tuple Chain Parameter Macro</title>
+      <link>https://andrew.rs/post/demystifying-the-tuple-chain-parameter-macro</link>
+      <guid>https://andrew.rs/post/demystifying-the-tuple-chain-parameter-macro</guid>
+      <pubDate>Wed, 19 Aug 2026 10:12:04 +0000</pubDate>
+      <description>Note: This article assumes basic understanding of rust macros. If you aren't familiar, you can read about the basics of macros here. Background When using Bevy, I noticed an interesting pattern that is used frequently as part of the framework. So I decided to look into it out of curiosity. This pattern allows you to create a function that can accept a (seemingly) arbitrarily long collection of parameters, which caught my attention, since that seems to break the constraints of Rust. In order for </description>
+    </item>
     <item>
       <title>Andrew.rs</title>
       <link>https://andrew.rs/post/andrew-rs</link>
