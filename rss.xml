@@ -6,7 +6,21 @@
     <description>Andrew — Rust Developer</description>
     <language>en</language>
     <atom:link href="https://andrew.rs/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 16:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:25:13 +0000</lastBuildDate>
+    <item>
+      <title>The Newtype Pattern and The Typestate Pattern</title>
+      <link>https://andrew.rs/post/the-newtype-pattern-and-the-typestate-pattern</link>
+      <guid>https://andrew.rs/post/the-newtype-pattern-and-the-typestate-pattern</guid>
+      <pubDate>Fri, 18 Sep 2026 16:52:05 +0000</pubDate>
+      <description>You might think of a struct as something that is just used to define objects and their properties. But structs can be used for other purposes as well, such as defining distinct "versions", or defining states that don't have to be resolved during runtime. The Newtype Pattern You're probably familiar with situations in which you need to pass the same parameters together often between many different functions. If you've ever written code and noticed that many functions take the same set of paramete</description>
+    </item>
+    <item>
+      <title>Blanket Implementations</title>
+      <link>https://andrew.rs/post/blanket-implementations</link>
+      <guid>https://andrew.rs/post/blanket-implementations</guid>
+      <pubDate>Fri, 11 Sep 2026 15:21:31 +0000</pubDate>
+      <description>If you come from an Object-Oriented Programming background like I do, then Rust's trait architecture can seem a bit confusing at first. Designing code that separates concerns while still sharing code whenever possible is still important in Rust, even without inheritance or polymorphism. One pattern that is useful to know for this purpose is the Blanket Implementation. The Problem In object-oriented languages, it's very common to design object structures using abstract classes, inheritance, polym</description>
+    </item>
     <item>
       <title>Demystifying the Tuple Chain Parameter Macro</title>
       <link>https://andrew.rs/post/demystifying-the-tuple-chain-parameter-macro</link>
