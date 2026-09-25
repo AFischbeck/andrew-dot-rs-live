@@ -6,7 +6,7 @@
     <description>Andrew — Rust Developer</description>
     <language>en</language>
     <atom:link href="https://andrew.rs/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 14:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:30:53 +0000</lastBuildDate>
     <item>
       <title>The Newtype Pattern and The Typestate Pattern</title>
       <link>https://andrew.rs/post/the-newtype-pattern-and-the-typestate-pattern</link>
